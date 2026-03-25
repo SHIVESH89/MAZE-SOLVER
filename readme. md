@@ -1,33 +1,40 @@
-# AI-Based Maze Solver Visualizer (10×10 Grid)
+# 🚀 AI-Based Maze Solver Visualizer (10x10 Grid)
+
 ---
+
 ## 📌 Overview
-This project is an interactive AI-powered maze solving visualizer built on a fixed 10×10 grid. It allows users to create or generate mazes and observe how different search algorithms explore and find the optimal path in real time.
+
+This project is an interactive AI-powered maze solving visualizer built on a fixed 10x10 grid. It allows users to create or generate mazes and observe how different search algorithms explore and find the optimal path in real time. 
+
 The application focuses on clarity, smooth animations, and algorithmic understanding, making it ideal for learning, demonstrations, and presentations.
+
+It demonstrates and compares different pathfinding algorithms like:
+* Breadth First Search (BFS)
+* Depth First Search (DFS)
+* A* Algorithm
 
 ---
 
 ## 🎯 Objective
+
 The goal of this project is to:
-Enable users to design or generate mazes
-Apply AI search algorithms
-Visually understand how algorithms explore and solve the maze
+* Enable users to design or generate mazes
+* Apply AI search algorithms
+* Visually understand how algorithms explore and solve the maze
+* Compare performance of different algorithms
 
 ---
 
-Compare performance of different algorithms
-🚀 Live Demo
-🔗 Vercel Deployment Link:
-https://maze-solver-delta.vercel.app/
+## 🌐 Live Deployment
 
-## Visualization
-The application provides smooth, step-by-step animations:
-🔵 Explored nodes
-🟡 Final shortest path
-⏱ Animated execution (~50ms delay per step)
+👉 **Access the live application here:**
+🔗 https://maze-solver-delta.vercel.app/
 
+---
 
-## 🛠️ Tech Stack
-(Modify based on your implementation)
-Frontend: React / HTML / CSS / JavaScript
-Visualization: CSS animations / Canvas / DOM updates
-Deployment: Vercel
+## 🛠 Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+* Vercel (Deployment)
